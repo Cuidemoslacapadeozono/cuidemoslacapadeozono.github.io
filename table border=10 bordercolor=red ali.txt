@@ -1,0 +1,5 @@
+	<table border="10" bordercolor="red" align="bottom" background="3.jpg">
+			<tr>
+			<td><br><br><br><br><br><br><br><h1><font color="red">Vehiculos NO contaminantes</font 						color></h1><br><br><br><br><br><br>				<br></td>
+			</tr>
+			</table>
